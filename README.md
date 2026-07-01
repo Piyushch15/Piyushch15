@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  💻 Full Stack Developer | ☁️ Cloud Enthusiast | 🔌 IoT Developer
+ 
 </p>
 
 ---
